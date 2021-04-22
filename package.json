@@ -1,6 +1,9 @@
 {
   "name": "codeial",
   "version": "1.0.0",
+  "engines": {
+    "node": "10.15.1"
+  },
   "description": "My all social media web application",
   "main": "index.js",
   "scripts": {
